@@ -30,6 +30,7 @@ The Lumen framework is open-sourced software licensed under the [MIT license](ht
 ## Installing Lumen
 
 Lumen utilizes (https://getcomposer.org/ , "Composer") to manage its dependencies. So, before using Lumen, make sure you have Composer installed on your machine.
+
 You may also install Lumen by issuing the Composer create-project command in your terminal:
 
 ```cmd
