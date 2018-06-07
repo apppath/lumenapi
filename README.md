@@ -19,3 +19,19 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+## Server Requirements
+
+* PHP >= 7.1.3
+* OpenSSL PHP Extension
+* PDO PHP Extension
+* Mbstring PHP Extension
+
+## Installing Lumen
+
+Lumen utilizes (https://getcomposer.org/ , "Composer") to manage its dependencies. So, before using Lumen, make sure you have Composer installed on your machine.
+You may also install Lumen by issuing the Composer create-project command in your terminal:
+
+```cmd
+composer create-project --prefer-dist laravel/lumen app-name
+```
